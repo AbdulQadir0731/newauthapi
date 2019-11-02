@@ -1,0 +1,27 @@
+# Python bytecode:
+*.py[co]
+
+# Packaging files:
+*.egg*
+dist
+
+# Editor temp files:
+.idea/
+*.swp
+*~
+
+# Sphinx docs:
+build
+
+# SQLite3 database files:
+*.db
+
+# Coverage reports:
+.coverage
+*htmlcov*
+
+# Tox testing
+.tox/
+
+# Local virtualenv
+venv*
